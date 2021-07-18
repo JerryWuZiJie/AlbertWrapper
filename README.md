@@ -12,9 +12,9 @@ This project is intend for a better class selection experience for NYU Albert.  
 
 This is what Albert class selection interface currently look like (image from screenshot):
 
-![Main Menu](/doc/readme_doc/albert_interface.jpg)
+![Main Menu](doc/readme_doc/albert_interface.jpg)
 
-![Class Selection](/doc/readme_doc/albert_interface1.jpg)
+![Class Selection](doc/readme_doc/albert_interface1.jpg)
 
 and we are trying to make it look more like a Google Calendar style (image from [here](https://chrome.google.com/webstore/detail/event-durations-for-googl/elfoibhncineionfonglaickdliaikmj)):
 
