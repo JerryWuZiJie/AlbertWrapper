@@ -8,7 +8,10 @@ Last update: 7/22/2021 EST
 
 - Front End
   - Learn what tool is needed and install requirements (expected to be done 7/21)
-  - View some other open source projects (expected to be done 7/23)
+    
+    >settled on Vue.js as framework &nbsp;--7/22, behind schedule
+  - ~~View some other open source projects (expected to be done 7/23)~~
+  - Learn Vue.js (Expected to be done 7/28)
   - Develop a local website for practicing purpose
   - Put on cloud (either use own computer or AWS)
   - TBD
